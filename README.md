@@ -1,16 +1,44 @@
-## Hi there 👋
+# [SYSTEM_INIT] // ACCESS GRANTED
 
-<!--
-**mranujbalyan/mranujbalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=RECONNAISSANCE+IN+PROGRESS...;SECURITY+RESEARCHER;VULNERABILITY+HUNTER;BUILDING+ROBUST+DEFENSES" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🟢 MONITORING_DASHBOARD
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mranujbalyan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mranujbalyan&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🛠️ CORE_STATION_LOADOUT
+```bash
+$ neofetch --security
+
+OS: Arch Linux / Kali (Kernel: 6.x.x)
+
+Languages: Python, Go, C++, Rust, Bash
+
+Focus: Web3 Security, Network Pentesting, Binary Exploitation
+
+Tools: BurpSuite, Metasploit, Ghidra, Docker, Terraform
+
+📂 RECENT_OPERATIONS
+⚡ [Project-Alpha]: Developing custom automated sub-domain takeover scanner.
+
+🛡️ [CTF-Logs]: Documenting exploits from HackTheBox & TryHackMe.
+
+📦 [Dotfiles]: Optimized Zsh & Neovim configuration for maximum efficiency.
+
+🌐 UPLINK_CHANNELS
+<p align="left">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dflat-square%26logo%3DLinkedin%26logoColor%3Dwhite" /></a>
+<a href="mailto:mranujbalyan@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Email-D14836%3Fstyle%3Dflat-square%26logo%3DGmail%26logoColor%3Dwhite" /></a>
+<a href="https://www.google.com/search?q=https://tryhackme.com/p/YOUR_USER"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-TryHackMe-212c42%3Fstyle%3Dflat-square%26logo%3DTryHackMe%26logoColor%3Dwhite" /></a>
+</p>
+
+SELECT * FROM skill_set WHERE competence > 9000;
+-- [Output]: Results found in repositories below.
