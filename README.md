@@ -54,4 +54,3 @@ $ neofetch --security
 SELECT * FROM skill_set WHERE competence > 9000;
 -- [Output]: Results found in repositories below.
 ```
-
