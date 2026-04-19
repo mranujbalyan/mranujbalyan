@@ -16,7 +16,7 @@
 ```
 [*] TARGET ACQUIRED.............. ANUJ KUMAR
 [*] ALIAS........................ mranujbalyan
-[*] ROLE......................... SOC Analyst & Jr. Penetration Tester 
+[*] ROLE......................... SOC Analyst & Jr. Penetration Tester
 [*] STATUS....................... ONLINE ██████████ 100%
 [*] CLEARANCE LEVEL.............. MAXIMUM
 [+] ACCESS GRANTED ✓
@@ -50,11 +50,11 @@
 > Name         : Anuj Kumar
 > Handle       : mranujbalyan
 > Location     : India
-> Occupation   : Cybersecurity & Ethical Hacker
+> Occupation   : Student
 > Goal         : Breaking systems to build better ones
 > Vision       : Future CISO & Red Team Lead/Manager
-> Currently    : Building an automated sub-domain takeover scanner
-> Learning     : Advanced Binary Exploitation & Web3 Security
+> Currently    : Building a stealth-first Linux privilege escalation framework
+> Learning     : CompTIA A+  |  Network+  |  Security+
 ```
 
 ---
@@ -82,12 +82,12 @@
 ## `$ ls -la /recent_ops/`
 
 ```
-drwxr-xr-x  anuj  anuj   [Project-Alpha]   ← Automated Sub-Domain Takeover Scanner
-drwxr-xr-x  anuj  anuj   [CTF-Logs]        ← HackTheBox & TryHackMe Exploit Docs
-drwxr-xr-x  anuj  anuj   [Dotfiles]        ← Zsh & Neovim Optimized for Maximum Efficiency
+drwxr-xr-x  anuj  anuj   [Project-Code0001]  ← Linux PrivEsc Automation Toolkit
+drwxr-xr-x  anuj  anuj   [CTF-Logs]          ← HackTheBox & TryHackMe Exploit Docs
+drwxr-xr-x  anuj  anuj   [Dotfiles]          ← Zsh & Neovim Optimized for Max Efficiency
 ```
 
-> ⚡ **[Project-Alpha]** — Custom Python tool to detect & automate sub-domain takeover vulnerabilities at scale.
+> ⚡ **[Project-Code0001]** — A tool that automatically scans a Linux system to find misconfigurations and weaknesses that can be exploited to gain root access.
 >
 > 🛡️ **[CTF-Logs]** — Writeups, exploits & methodology notes from active HTB/THM machines.
 >
@@ -99,15 +99,21 @@ drwxr-xr-x  anuj  anuj   [Dotfiles]        ← Zsh & Neovim Optimized for Maximu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mranujbalyan&show_icons=true&theme=matrix&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&border_color=00FF41"/>
+<!-- STREAK — streak-stats.demolab.com (reliable, maintained) -->
+<img width="70%" src="https://streak-stats.demolab.com?user=mranujbalyan&theme=matrix&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=00FF41&fire=FF4500&currStreakLabel=00FF41&sideLabels=00FF41&stroke=00FF41&dates=8B949E" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mranujbalyan&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
+<br/><br/>
 
-</div>
+<!-- GITHUB STATS — anuraghazra vercel, custom dark green palette -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mranujbalyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=8B949E&ring_color=00FF41" />
 
-<div align="center">
+<!-- TOP LANGS -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mranujbalyan&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=8B949E" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mranujbalyan&theme=matrix&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=FF4500&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9" />
+<br/><br/>
+
+<!-- ACTIVITY GRAPH — gives the profile a live pulse -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mranujbalyan&bg_color=0D1117&color=00FF41&line=00FF41&point=FF4500&area=true&hide_border=true" />
 
 </div>
 
