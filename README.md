@@ -16,7 +16,7 @@
 ```
 [*] TARGET ACQUIRED.............. ANUJ KUMAR
 [*] ALIAS........................ mranujbalyan
-[*] ROLE......................... Cybersecurity Researcher
+[*] ROLE......................... SOC Analyst & Jr. Penetration Tester 
 [*] STATUS....................... ONLINE ██████████ 100%
 [*] CLEARANCE LEVEL.............. MAXIMUM
 [+] ACCESS GRANTED ✓
